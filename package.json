@@ -1,0 +1,25 @@
+{
+  "name": "miniprojeto1---mod4",
+  "version": "1.0.0",
+  "description": "Sprint 1 do módulo 4",
+  "main": "Sprint1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liliana1609/MiniProjeto1---Modulo4.git"
+  },
+  "author": "Liliana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liliana1609/MiniProjeto1---Modulo4/issues"
+  },
+  "homepage": "https://github.com/Liliana1609/MiniProjeto1---Modulo4#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
